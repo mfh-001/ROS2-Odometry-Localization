@@ -50,6 +50,6 @@ Upon exiting the node, a plot is generated showing the robot's path. The **Red E
 
 
 ---
-## ⚠️ Academic Integrity
-This repository is intended solely as a piece to showcase my learning journey. 
-If you are a student working on a similar assignment: **do not copy this code.** Plagiarism is a serious offense that can lead to expulsion. Use this only as a conceptual reference to understand odometry & localization with error propagation in ROS 2.
+## ⚠️ Disclaimer
+
+This repository serves as a showcase of my technical growth and learning journey. The contents are intended strictly for educational and research purposes. All outputs should be treated as conceptual references rather than production-ready solutions.
